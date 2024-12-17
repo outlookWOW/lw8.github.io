@@ -154,6 +154,11 @@ h6 {
   min-width: 200px;
 }
 
+.logo img {
+  max-width: 50px;
+  max-height: 50px;
+}
+
 @media (max-width: 1199px) {
   .header {
     background-color: var(--background-color);
